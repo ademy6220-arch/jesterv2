@@ -7,6 +7,33 @@
 
 dwonload
 
-git clone https://github.com/ademy6220-arch/jesterv2.git
+git clone https://github.com/ademy6220-arch/jesterv2.git cd Fsociety-JesterV2 pip install -r requirements.txt
+
 cd Fsociety-JesterV2
+
 pip install -r requirements.txt
+
+
+▶️ Run in Console
+
+Run the project with:
+
+python JesterV2.py
+
+⚙️ Build Executable (EXE)
+Simple EXE
+
+pyinstaller --onefile JesterV2.py
+
+EXE without console
+
+pyinstaller --onefile --noconsole JesterV2.py
+
+EXE with custom icon
+
+pyinstaller --onefile --noconsole --icon=icon.ico JesterV2.py
+
+📜 License
+
+This project is for educational and fan demonstration purposes only.
+About
