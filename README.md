@@ -7,12 +7,13 @@
 
 dwonload
 
-git clone https://github.com/ademy6220-arch/jesterv2.git cd Fsociety-JesterV2 pip install -r requirements.txt
+git clone https://github.com/ademy6220-arch/jesterv2.git 
 
 cd Fsociety-JesterV2
 
 pip install -r requirements.txt
 
+python JesterV2.py
 
 ▶️ Run in Console
 
